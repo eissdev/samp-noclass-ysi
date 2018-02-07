@@ -1,0 +1,5 @@
+{
+    "user": "eissdev",
+    "repo": "samp-noclass-ysi",
+    "dependencies": ["pawn-lang/YSI-Includes"]
+}
