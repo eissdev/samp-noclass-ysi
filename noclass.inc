@@ -29,6 +29,7 @@ public OnPlayerStateChange(playerid, newstate, oldstate)
 		call OnPlayerFullyConnected(playerid);
 
 	}
+	return 1;
 }
 
 stock CS_SpawnPlayer(playerid)
